@@ -17,7 +17,6 @@ import {
 } from "../utils/constants";
 
 const Dashboard = () => {
-    // const bgImgArrMemo = useMemo(() => bgImgArr, []);
     const citiesWithLatLong = useMemo(() => CITY_DATA, []);
     const lastSavedLoc = getRememberLocation();
 
