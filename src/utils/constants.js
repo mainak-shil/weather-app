@@ -15,9 +15,9 @@ const WEATHERBIT_IMAGE_URL = "https://www.weatherbit.io/static/img/icons/";
 /**
  * Openweather
  */
-const OPENWEATHER_BASE_URL = "http://api.openweathermap.org/data/2.5/weather";
+const OPENWEATHER_BASE_URL = "https://api.openweathermap.org/data/2.5/weather";
 const OPENWEATHER_APP_ID = "35656e7ddbceeeb9d387f84805b80ea5";
-const OPENWEATHER_IMAGE_URL = "http://openweathermap.org/img/wn/";
+const OPENWEATHER_IMAGE_URL = "https://openweathermap.org/img/wn/";
 
 export {
     WEATHERBIT_BASE_URL,
